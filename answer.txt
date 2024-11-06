@@ -1,0 +1,10 @@
+*Sorting* > Helps with Data
+
+*Array* > Helps with Contacts
+
+*Bitmas* > Helps with passwords/teams
+
+*Heap* > Helps with inventory
+
+*LinkedList* > Helps with conductor of an episode
+
